@@ -1,9 +1,7 @@
-[![badgeProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto://lukeaz00@protonmail.com)
+[![HackTheBox Profile](https://img.shields.io/badge/HackTheBox-9acb12?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.eu/profile/361902)
 [![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@LukeAz)
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+[![badgeProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto://lukeaz00@protonmail.com)
 
 # Hello, I'm Luca 😛
 I'm currently studying computer science at University of Piemonte Orientale
@@ -13,6 +11,10 @@ I'm currently studying computer science at University of Piemonte Orientale
 * 👁️‍🗨️ Reversing android app and patching smali code
 * ☣️ Interested in web hacking
 * 🐋 Docker enthusiast
+
+### Other profiles:
+* 🔗 HackTheBox: https://app.hackthebox.eu/profile/361902
+* 🔗 Repl: https://replit.com/@LukeAz
 
 ⬇️ Below are few of my projects ⬇️
 
@@ -39,9 +41,6 @@ I'm currently studying computer science at University of Piemonte Orientale
 ![stats](https://github-readme-stats.vercel.app/api?username=lukeaz&show_icons=true&bg_color=343c41&title_color=9fef00&text_color=FFFFFF&icon_color=9fef00&hide_border=true&include_all_commits=true&count_private=true)
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeaz&bg_color=343c41&title_color=9fef00&text_color=FFFFFF&hide_border=true)
-
-## 💎 HackTheBox Stats
-![HackTheBox](https://www.hackthebox.eu/badge/image/361902)
 
 <!--
 **LukeAz/lukeaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
