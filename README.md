@@ -13,6 +13,7 @@ I'm currently studying computer science at University of Piemonte Orientale
 * 🐋 Docker enthusiast
 
 ### Other profiles:
+* 🔗 HackerRank: https://www.hackerrank.com/LukeAz
 * 🔗 HackTheBox: https://app.hackthebox.eu/profile/361902
 * 🔗 Repl: https://replit.com/@LukeAz
 
