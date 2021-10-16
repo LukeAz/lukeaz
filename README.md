@@ -36,6 +36,8 @@ I'm currently studying computer science at University of Piemonte Orientale
 ### ![School Project](https://img.shields.io/badge/School-Project-00AAE7?style=for-the-badge&logo=Sketchfab&logoColor=white)
 [![hackerfill](https://github-readme-stats.vercel.app/api/pin/?username=lukeaz&repo=hackerfill&bg_color=343c41&title_color=00AAE7&text_color=FFFFFF&icon_color=00AAE7&hide_border=true)](https://github.com/LukeAz/Hackerfill)
 
+[![HuntTheWumpus](https://github-readme-stats.vercel.app/api/pin/?username=lukeaz&repo=HuntTheWumpus&bg_color=343c41&title_color=00AAE7&text_color=FFFFFF&icon_color=00AAE7&hide_border=true)](https://github.com/LukeAz/HuntTheWumpus)
+
 
 ## 📈 GitHub Stats
 
