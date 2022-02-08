@@ -1,7 +1,10 @@
+[![linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/luca-tamone-51293522a)
+[![badgeProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto://lukeaz00@protonmail.com)
+
 [![HackTheBox Profile](https://img.shields.io/badge/HackTheBox-9acb12?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.eu/profile/361902)
 [![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@LukeAz)
 
-[![badgeProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto://lukeaz00@protonmail.com)
+
 
 # Hello, I'm Luca 😛
 I'm currently studying computer science at University of Piemonte Orientale
