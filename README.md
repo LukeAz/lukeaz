@@ -7,13 +7,19 @@
 
 
 # Hello, I'm Luca 😛
-I'm currently studying computer science at University of Piemonte Orientale
+I recently graduated in computer science at Università del Piemonte Orientale
+
+During the last years I wanted to increase my knowledge and skills as a fullstack developer through small private projects and I'm very interested in developing web applications, android apps and reverse engineering. 
+
+I believe that getting involved helps to learn and live new experiences by increasing your knowledge and demonstrating your skills.
+
+I'm currently working at "Re-ef S.R.L." as a software engineer in the field of digitalization of renewable power plants.
 
 ### About me:
-* 🔶 Full stack developer
-* 👁️‍🗨️ Reversing android app and patching smali code
+* 🔶 I'm a full stack developer
+* 👁️‍🗨️ Interested in reverse engineering
 * ☣️ Interested in web hacking
-* 🐋 Docker enthusiast
+* 🐋 I'm a Docker enthusiast
 
 ### Other profiles:
 * 🔗 HackerRank: https://www.hackerrank.com/LukeAz
